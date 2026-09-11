@@ -5,4 +5,5 @@ title: MINDMIX Ideas
 
 * [[music file/index|music1]]
 * [[BPM/index|BPM]]
+* [[Examples|MixMind]]
 * 
