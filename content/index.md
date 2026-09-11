@@ -3,7 +3,9 @@ title: MINDMIX Ideas
 ---
 ## Main Categories
 
-* [[mixmind/index|music1]]
-* [[BPM/index|BPM]]
-* [[Examples|MixMind]]
+* [[mixmind/index|what-is-mixmind]]
+* [[BPM/index|BPM-and-music-analysis]]
+* [[Examples|MixMind-for-djs]]
+* [[Organization of Music|how-mixmind-organizes-muisc]]
+* [[Example doc 01|break-down-of-mixmind]]
 * 
