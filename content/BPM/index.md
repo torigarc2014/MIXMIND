@@ -1,5 +1,5 @@
 ---
-title: Category 02
+title: BPM Page
 ---
 ## The Category 02 category index page
 
