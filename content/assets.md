@@ -1,0 +1,3 @@
+
+
+![[Mix-Mind.pdf.png]]
