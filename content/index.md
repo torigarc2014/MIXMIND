@@ -8,4 +8,5 @@ title: MINDMIX Ideas
 * [[Examples|MixMind-for-djs]]
 * [[Organization of Music|how-mixmind-organizes-muisc]]
 * [[Example doc 01|break-down-of-mixmind]]
+* [[assets|assets]]
 * 
