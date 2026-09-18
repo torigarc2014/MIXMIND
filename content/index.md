@@ -9,4 +9,5 @@ title: MINDMIX Ideas
 * [[Organization of Music|how-mixmind-organizes-muisc]]
 * [[Example doc 01|break-down-of-mixmind]]
 * [[assets|assets]]
+* [[Analyzing Organizing System|analyzing]]
 * 
