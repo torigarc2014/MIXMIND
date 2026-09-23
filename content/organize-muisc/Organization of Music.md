@@ -30,7 +30,7 @@ title: How MixMind organizes music?
     **Key:** A minor  
     **Year:** 2020–2026
     
-    That would quickly show you the tracks matching those characteristics.
+That would quickly show you the tracks matching those characteristics.
     
 4. **Uses AI to create playlists**
     
@@ -39,20 +39,22 @@ title: How MixMind organizes music?
     > **"Find me 20 deep house songs around 124 BPM that would work for a late-night set."**
     
     MixMind would search your own library and create a playlist using the tracks you already own. This type of natural-language playlist building is already being used in music-library tools.
-    
-5. **Finds forgotten or similar music**
-    
-    MixMind could also recognize relationships between songs. For example:
-    
-    **Track:** _Example Song_  
-    → Similar genre: Deep House  
-    → Similar BPM: 123–126  
-    → Similar mood: Dark/Energetic  
-    → Similar key: A minor/C major  
-    → Similar artists
-    
-    This makes it easier to discover songs you already own but may have forgotten about.
-    
+
+1. **Finds forgotten or similar music**
+
+MixMind could also recognize relationships between songs. For
+example:
+
+**Track:** _Example Song_  
+→ Similar genre: Deep House  
+→ Similar BPM: 123–126  
+→ Similar mood: Dark/Energetic  
+→ Similar key: A minor/C major  
+→ Similar artists
+
+This makes it easier to discover songs you already own but may have
+forgotten about.
+
 
 ### The important part for your project
 
