@@ -10,4 +10,9 @@ title: MINDMIX Ideas
 * [[Example doc 01|break-down-of-mixmind]]
 * [[assets|assets]]
 * [[Analyzing Organizing System|analyzing]]
+* [[why-is-mixmind-useful|useful-mix]]
+* [[benefit-use]]
+* [[who-would-use]]
+* [[make-things-easier]]
+* [[the-future]]
 * 
