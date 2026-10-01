@@ -16,4 +16,10 @@ title: MINDMIX Ideas
 * [[make-things-easier]]
 * [[the-future]]
 * [[reference-sites]]
-* 
+* [[Ai-Music-Metadata]]
+* [[User-Control]]
+* [[MxMind-Music-Discovery]]
+* [[Batch-Organization]]
+* [[AI-Confidence-Score]]
+* [[MixMind-vs-Manual-Music-Organization]]
+* [[MixMind-User-Workflow]]
